@@ -1,0 +1,9 @@
+.vs/
+src/BackOffice/bin/
+src/BackOffice/obj/
+src/Host/bin/
+src/Host/obj/
+src/Mdm/bin/
+src/Mdm/obj/
+src/NmsClientInterface/bin/
+src/NmsClientInterface/obj/
